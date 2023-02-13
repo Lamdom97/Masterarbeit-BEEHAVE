@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2023 Dominik Lammers
+# SPDX-FileCopyrightText: 2023 Dominik Lammers <dominik.lammers@hotmail.de>
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 import matplotlib.pyplot as plt
