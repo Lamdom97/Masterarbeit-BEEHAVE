@@ -1,3 +1,11 @@
+; SPDX-FileCopyrightText: 2023 Dominik Lammers
+; SPDX-License-Identifier: GPL-3.0-or-later
+;
+; The original source code of BEEHAVE, available at http://beehave-model.net/ , has been modified as part of my Master Thesis in 2022
+; Information on original authors, as well as Copyright holder can be found in the following sections: 
+; "# Terms of use of the software Beehave_BeeMapp (2015)"
+; "## Copyright and Licence Information:"
+
 __includes [] ; This line is only there to speed up the interpretation process. If the line is not there checking the code takes two or three times longer
 
 
