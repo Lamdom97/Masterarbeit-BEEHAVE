@@ -1,4 +1,6 @@
-; SPDX-FileCopyrightText: 2023 Dominik Lammers
+; SPDX-FileCopyrightText: 2023 Dominik Lammers <dominik.lammers@hotmail.de>
+; SPDX-FileCopyrightText: 2015 Matthias Becher <http://beehave-model.net/>
+;
 ; SPDX-License-Identifier: GPL-3.0-or-later
 ;
 ; The original source code of BEEHAVE, available at http://beehave-model.net/ , has been modified as part of my Master Thesis in 2022
