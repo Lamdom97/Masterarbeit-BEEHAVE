@@ -1,5 +1,7 @@
-# Masterarbeit-BEEHAVE
+# Masterthesis - BEEHAVE-PPE
 
-Voller BEEHAVE-Code, sowie Python Programm für das Erstellen von Wetterdaten
+Full BEEHAVE-PPE Code, as well as python file to create weather data.
 
-Im Rahmen der Masterarbeit wurde der Code von "Beehave_BeeMapp (2015)", erhältlich unter http://beehave-model.net/ modifiziert.
+
+
+For the master thesis and following publication, the model "Beehave_BeeMapp (2015)", available at http://beehave-model.net/ was modified.
